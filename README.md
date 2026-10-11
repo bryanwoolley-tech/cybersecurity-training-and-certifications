@@ -22,7 +22,7 @@ My objective is to develop practical cybersecurity skills across both defensive 
 - U.S. Army Senior Noncommissioned Officer 
 - 16+ years of military aviation and operations experience
 - Bachelor of Arts in Philosophy
-- Master of Business Administration (MBA) – In Progress
+- Master of Business Administration (MBA) 
 - Background in technical operations, systems connectivity, infrastructure support, and operational data management
 - Currently preparing for CompTIA Security+ (SY0-701)
 - Developing practical skills in Linux, networking, network traffic analysis, and cybersecurity operations
@@ -84,7 +84,7 @@ These experiences provide a professional foundation for IT support, cybersecurit
 ### Master of Business Administration (MBA)
 **American Military University**
 
-Status: In Progress
+
 
 Relevant areas:
 - Strategic leadership
